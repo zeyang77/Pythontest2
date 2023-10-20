@@ -20,3 +20,5 @@ for i in range(diceRoll):
 #6&7 checking for crit miss and fails
 
 print ('done rolling')
+
+#https://github.com/zeyang77/Pythontest2
