@@ -21,4 +21,5 @@ for i in range(diceRoll):
 
 print ('done rolling')
 
-#https://github.com/zeyang77/Pythontest2
+# https://www.w3schools.com/python/python_conditions.asp
+# https://github.com/zeyang77/Pythontest2
